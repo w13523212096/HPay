@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96.75 96.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#椭圆_38);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5dff31"/>
+      <stop offset="1" stop-color="#134d04"/>
+    </linearGradient>
+    <filter id="椭圆_38" x="0" y="0" width="96.75" height="96.75" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#00f128" flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_769" data-name="组 769" transform="translate(187 -97)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -187, 97)">
+      <circle id="椭圆_38-2" data-name="椭圆 38" class="cls-1" cx="39.375" cy="39.375" r="39.375" transform="translate(9 6)"/>
+    </g>
+    <g id="HPAY" transform="translate(-169.653 125.358)">
+      <path id="路径_2898" data-name="路径 2898" class="cls-2" d="M6920.921,13378.642l-1.321,11.366h-2.657l2.927-25.17h2.658l-1.074,9.229h1.695l1.321-11.365h-6.045l-3.424,29.44h6.045l1.322-11.366h7.1l.249-2.134Z" transform="translate(-6915 -13362.701)"/>
+      <path id="路径_2899" data-name="路径 2899" class="cls-2" d="M8127.011,13362.7l-1.322,11.365h-7.1l-.249,2.137h8.794l1.323-11.365h2.656l-2.928,25.17h-2.658l1.075-9.232h-1.694l-1.323,11.366h6.046l3.424-29.44Z" transform="translate(-8108.186 -13362.701)"/>
+      <path id="路径_2900" data-name="路径 2900" class="cls-2" d="M9947.361,14167.619l1.345-10.3a1.635,1.635,0,0,0-1.811-2.082H9938l-2.968,22.735h3.393l1.076-8.242h5.5A2.217,2.217,0,0,0,9947.361,14167.619Zm-3.316-.8h-4.166l1.131-8.661h4.165Zm14.411,11.157,1.678-12.854c.159-1.22-.358-1.814-1.608-1.814H9952.9a1.87,1.87,0,0,0-2.109,1.814l-.358,2.736h3.006l.271-2.082h3.185l-.439,3.362h-4.493a1.856,1.856,0,0,0-2.111,1.815l-.691,5.3c-.155,1.189.363,1.785,1.583,1.785a7.779,7.779,0,0,0,1.026-.12l3.57-.443-.066.5Zm-2.81-2.646-3.2.118.528-4.049h3.184Zm18.271-12.022h-3.394l-3.192,9.641-.675-9.641h-3.423l1.819,14.55-2.23,5.476h3.394Z" transform="translate(-9909.548 -14148.553)"/>
+    </g>
+  </g>
+</svg>
